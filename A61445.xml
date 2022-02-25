@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second service, or Office of the faithful enlarged, according to ancient forms For a private use.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61445</idno>
+            <idno type="STC">Wing S5440</idno>
+            <idno type="STC">ESTC R222014</idno>
+            <idno type="EEBO-CITATION">99833253</idno>
+            <idno type="PROQUEST">99833253</idno>
+            <idno type="VID">37728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second service, or Office of the faithful enlarged, according to ancient forms For a private use.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>By Edward Stephens, cf. Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Liturgy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="liturgy">
+            <pb n="1" facs="tcp:37728:1" rendition="simple:additions"/>
+            <head>THE <hi>Second Service,</hi> OR Office of the Faithful ENLARGED, According to Ancient Forms.</head>
+            <head type="sub">For a Private Vſe.</head>
+            <p>GLory be to God on High, on Earth Peace, Good Will towards Men.</p>
+            <p>Bleſſed be the Lord God of Iſrael; for he hath vi<g ref="char:EOLhyphen"/>ſited and redeemed his People; <hi>&amp;c. to</hi> And thou, O Child.</p>
+            <p>God be merciful unto us, and bleſs us, and ſhew us the Light of his Countenance, and be merciful unto us.</p>
+            <p>Prevent us, O Lord, in all our Doings with thy moſt Gracious Favour, and further us with thy continual Help, that [as by thy 'ſpecial Grace preventing us, thou doſt put into our Minds Good Deſires, ſo by thy continual Help we may bring the ſame to good Effect, and in all our Works begun, continued, and ended in Thee,] we may glorifie thy Holy Name, and finally by thy Mercy [may] obtain everlaſting Life, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>Almighty God, unto whom all Hearts be open, <hi>&amp;c.</hi>
+            </p>
+            <pb n="1" facs="tcp:37728:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:37728:3"/>
+            <p>
+               <hi>Then the Offertory, and Prayers for the whole State of Chriſts Church, Invitatory,</hi> Ye that do truly and ear<g ref="char:EOLhyphen"/>neſtly Repent, <hi>&amp;c. the Confeſſion, Abſolution, and Sen<g ref="char:EOLhyphen"/>tences following.</hi>
+            </p>
+            <p>The Grace of our Lord Jeſus Chriſt, and the Love of God the Father, and the Communication of the Holy Ghoſt be with you all. <hi>Amen.</hi>
+            </p>
+            <p>R. <hi>And with thy Spirit.</hi>
+            </p>
+            <lg>
+               <l>Lift up your Hearts.</l>
+               <l>R. <hi>We lift them up unto the Lord.</hi>
+               </l>
+               <l>Let us give Thanks unto our Lord God.</l>
+               <l>R. <hi>It is meet and right ſo to do.</hi>
+               </l>
+            </lg>
+            <p>It is very meet, right, and our bounden Duty, that we ſhould [adore, worſhip, and glorifie Thee, and] at all Times, and in all Places, give [Praiſe and] Thanks unto Thee, O Lord, Holy Father, Almighty Everlaſting God. Eternal Independent, Self-ſufficient Being, of In<g ref="char:EOLhyphen"/>finite Wiſdom, Power, and Goodneſs; who haſt pre<g ref="char:EOLhyphen"/>pared thy Throne in the Heavens, and dwelleſt in the High and Holy Place; yet the Heaven, and the Heaven of Heavens, cannot contain Thee; for thou filleſt Hea<g ref="char:EOLhyphen"/>ven and Earth: Thou covereſt thy Self with Light, as with a Garment, dwelling in the Light, which no Man can approach unto; whoſe Judgments are unſearchable, and thy ways paſt finding out. Thou, O moſt Glorious Majeſty, thou art LORD alone: For thou haſt made Heaven, the Heaven of Heavens, with all their Hoſt; the Earth, and all things therein; the Seas, and all that is therein; and thou preſerveſt them all; and thy Do<g ref="char:EOLhyphen"/>minion ruleth over all.</p>
+            <p>R. <hi>The Heavens are Thine, the Earth alſo is Thine: Thou hast founded the whole World, and all that therein is.</hi>
+            </p>
+            <p>The Hoſt of Heaven worſhipeth Thee: A thouſand thouſand miniſter unto Thee; and ten thouſand times ten thouſand attend upon Thee.</p>
+            <pb n="3" facs="tcp:37728:3"/>
+            <p>R. <hi>And we, poor Mortals, adore thy moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty; and recognize and revere thy moſt juſt and abſolute Dominion.</hi>
+            </p>
+            <p>When we conſider the Heavens, the Work of thy Fingers, the Moon and the Stars which thou haſt or<g ref="char:EOLhyphen"/>dained, Lord, what is <hi>Man,</hi> that Thou art mindful of Him! and the Son of Man, that Thou viſiteſt Him! All Nations (in reſpect of Thee) are but as a Drop of a Bucket, and as the ſmall Duſt of the Ballance; as nothing, yea leſs than Nothing and Vanity. What then are we, a little handful of thy poor Creatures, among ſo many Millions of our own Kind, beſides ſo many Myriades of thy more excellent Creatures, which con<g ref="char:EOLhyphen"/>tinually attend upon Thee, and with profound Reve<g ref="char:EOLhyphen"/>rence cover their Faces before Thee, that thou ſhoul<g ref="char:EOLhyphen"/>deſt have any regard unto us.</p>
+            <p>R. <hi>Who is like unto the Lord our God, who hath his Dwelling ſo high, and yet humbleth himſelf to behold the things, which are in Heaven and Earth!</hi>
+            </p>
+            <p>But ſuch is thy <hi>Providence,</hi> which extends to All thy Creatures, even to the Sparrow upon the Houſe top; and ſo boundleſs thy <hi>Love and Goodneſs,</hi> that though the Glory of thy Majeſty might juſtly deterr the Pureſt of Mortals from any Addreſs to Thee, thou doſt not only graciouſly invite us, but by thy moſt Gracious Commands, haſt made that (or rather reinforced it as) our Duty, which otherwiſe, of it ſelf, were a moſt deſireable Favour: And though the <hi>Holineſs</hi> of thy Majeſty might make ſuch ſinful Wretches tremble to approach thy Preſence; yet ſuch is thy Clemency, that, for our Encouragement, thou haſt provided for us, both a Propitiation for our Sins, and a Mediatour for our Infirmities, in Chriſt Jeſus thy beloved Son, and our bleſſed Lord and Saviour; in whom, and through whom, thou haſt moſt admirably demonſtrated, in thy
+<pb n="4" facs="tcp:37728:4"/>infinite Wiſdom, at once, both thy Juſtice and Severity againſt Sin, and thy Mercy and Clemency to thy poor Creatures, to the Admiration even of thy bleſſed Angels.</p>
+            <p>R. <hi>Great and Marvellous are thy Works, Lord God Al<g ref="char:EOLhyphen"/>mighty: Just and True are thy Ways, thou King of Saints: Who ſhall not fear Thee, O Lord, and Glorifie thy Name.</hi>
+            </p>
+            <p>In his Name therefore in Grateful Obedience to thy Gracious Commands, and thankful Acceptance of thoſe thy Gracious Encouragements, we humbly, as we can preſent our ſelves before: Oh that we could do it with that Reverence and Devotion that is meet! and with all thoſe thy Glorious Creatures in Heaven, and all thy faithful and devote Servants upon Earth, Adore and Worſhip thy Supream moſt Glorious Majeſty, <hi>Acknow<g ref="char:EOLhyphen"/>ledging</hi> and <hi>Recognizing</hi> thy moſt juſt and abſolute <hi>Do<g ref="char:EOLhyphen"/>minion</hi> over us all.</p>
+            <p>R. <hi>Bleſſed be the Lord God of our Fathers for ever and ever. Thine, O Lord, is the Magnificence, and the Power, and the Glory, and the Victory, and the Majeſty: for all that is in Heaven and in Earth is thine: thine is the King<g ref="char:EOLhyphen"/>dom, O Lord, and thou art exalted as Head over all.</hi>
+            </p>
+            <p>We are all thine by right of <hi>Creation:</hi>
+            </p>
+            <p>R. <hi>The Heavens are Thine, the Earth alſo is Thine: Thou haſt founded the whole World, and all that therein is.</hi>
+            </p>
+            <p>By right of <hi>Suſtentation,</hi> and <hi>Preſervation:</hi> *</p>
+            <p>* In Thee we live, and move, and have our Being.</p>
+            <p>And we the Sinful Sons of Men all thine, alſo by right of <hi>Redemption.</hi>
+            </p>
+            <p>R. <hi>
+                  <g ref="char:V">Ʋ</g>nto Him that loved us, and waſhed us from our Sins in his own Blood, to Him be Glory and Dominion for ever and ever.</hi> Amen.</p>
+            <p>And we here preſent with all the Members of thy viſible Church Thine, alſo by ſpecial <hi>Dedication</hi> and <hi>Conſecration;</hi> which we for our part do each here a<g ref="char:EOLhyphen"/>gain Ratify and Confirm:</p>
+            <pb n="5" facs="tcp:37728:4"/>
+            <p>R. <hi>We confirm, O Lord, we ratify and confirm it with all our Souls for ever.</hi>
+            </p>
+            <p>Humbly beſeeching Thee, in the Name, and for the Sake and Merits of the ſame our Lord <hi>Jeſus Chriſt,</hi> thy Beloved Son, our Bleſſed Redeemer, whom thou haſt propoſed to be a Propitiation for us in his Blood, to Pardon all our Sins, and make us perfectly and compleatly Thine by thy Holy Spirit of Sanctification; that He may be in us, and abide with us for ever; may illuminate our Minds to know Thee, the only true God and <hi>Jeſus Christ,</hi> whom thou haſt ſent; and to apprehend the Excellence of thoſe Glories, which thou haſt deſigned us for, and propoſed unto us, ſuch as Eye has not ſeen, nor Ear heard, nor Heart of Man conceived, and the Excellence of theſe Means and Ordinances, which thou haſt appointed for us for the Attainment thereof, which thou haſt hid from the Wiſe and Prudent (of the World) but revealeſt unto Babes,</p>
+            <p>And therefore with Angels, <hi>&amp;c.</hi>
+            </p>
+            <p>Thou art worthy, O Lord, to receive Glory and Ho<g ref="char:EOLhyphen"/>nour, and Power: for thou haſt created all things, and for thy Pleaſure they are and were Created.</p>
+            <p>Worthy is the Lamb, that was ſlain, to reeive Power, and Riches, and Wiſdom, and Strength, and Honour, and Glory, and Bleſſing:</p>
+            <p>For thou waſt ſlain, and haſt redeemed us unto God by thy Blood out of every Kindred, and Tongue, and People, and Nation.</p>
+            <p>Bleſſing, Honour, Glory and Power, be unto him that ſitteth upon the Throne, and unto the Lamb for ever and ever.</p>
+            <p>Almighty God, who haſt given, <hi>&amp;c. The Collect for the Second Sunday after Eaſter.</hi>
+            </p>
+            <p>Almighty God, our Heavenly Father, <hi>&amp;c. The Pray<g ref="char:EOLhyphen"/>er of Conſecration.</hi>
+            </p>
+            <pb n="6" facs="tcp:37728:5"/>
+            <p>Wherefore, Holy Father, according to his Holy Inſti<g ref="char:EOLhyphen"/>tution <hi>Commemorating</hi> that his bitter, but moſt precious Death and Paſſion, and ſolemnly <hi>Repreſenting</hi> the ſame before thy Divine Majeſty, as the great, moſt Holy, and Only Propitiation for all our Sins, and the Sins of the whole World; and being mindful alſo of his Powerful Reſurrection, Glorious Aſcenſion into Heaven, and Bleſ<g ref="char:EOLhyphen"/>ſed Seſſion at thy right Hand to intercede for us, till he ſhall come again with great Power and Glory to judge both the Living and the Dead, and to diſtri<g ref="char:EOLhyphen"/>bute to every one according to their Works done in the Fleſh; we <hi>offer</hi> and render unto thee, by him, our moſt humble Adoration, higheſt Praiſes, and moſt hearty <hi>Thanks,</hi> for thy ineſtimable Clemency, Goodneſs and Benignity to us therein; and thereby demonſtrated to Men and Angels: and moſt humbly and earneſtly <hi>Sup<g ref="char:EOLhyphen"/>plicate</hi> and Beſeech thee, that this our Unbloody, Rea<g ref="char:EOLhyphen"/>ſonable, and Spiritual Sacrifice may be acceptable and well Pleaſing unto thee, moſt Mighty God, by our Anoin<g ref="char:EOLhyphen"/>ted <hi>Jeſus,</hi> who gave himſelf for us, an Offering, and a Sacrifice, to thee, for a ſweet ſmelling Savour; that thou will be pleaſed graciouſly to behold the ſame, and look upon this Token and Memorial of the Covenant, from thy Glorious Throne in Heaven, and be Propitious to us in the free, and full <hi>Pardon</hi> of all our Sins, in a Liberal and Bountiful Collation of thy Rich Treaſure of the In<g ref="char:EOLhyphen"/>eſtimable <hi>Graces</hi> of thy Holy Spirit upon us, and in a gracious <hi>Audience</hi> of the Prayers, which we here offer unto thee: and ſend down thy Holy Spirit upon theſe Propoſited Elements, to Sanctify and Bleſs them, that to us who partake thereof, this <hi>Bread</hi> may be made the Precious Body of thy <hi>Chriſt,</hi> and this Wine the Precious Blood of thy <hi>Christ,</hi> to the Remiſſion of all our Sins, and to the mighty Confirmation of us in all Grace, and to Eternal Life.</p>
+            <pb n="7" facs="tcp:37728:5"/>
+            <p>And here we offer and preſent unto Thee, O Lord, our ſelves, our Souls, and Bodies,, <hi>&amp;c. as in that which immediately follows the Lord's Prayer, beginning,</hi> O Lord and Heavenly Father.</p>
+            <p>And we humbly beſeech thee, O Father, the great Creator, and Supream Lord and Governour of the whole Univerſe, and of all therein, to behold with thy Favour this great Propitiation for the Sins of the whole World, and be Propitious to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Church</hi> diffu<g ref="char:EOLhyphen"/>ſed over all the Earth, which thy Beloved Son our Sa<g ref="char:EOLhyphen"/>viour hath purchaſed with his own precious Blood; and to the whole Race of Mankind: Behold with Mercy and Pity all our Miſery and Sufferings, through the Envy, Malice, and Subtility of thoſe Rebels againſt thee, the <hi>Apoſtate Spirits</hi> of the Kingdom of Darkneſs: Behold the great Havock they have made, and Confuſions they have wrought in the World, and even in thy Church, and among thy People, who are called by thy Name: And let all our <hi>Sufferings</hi> be united to the Sufferings of our Saviour, and being ſanctified by them be accepted by thee; and all the Malice and Miſchiefs of thoſe thine and our inveterate Enemies be computed, to the filling up of their Meaſure, that they may be caſt out, and the Kingdom of our Lord and Saviour thy Son be ſet up in full Power and Glory throughout the whole World.</p>
+            <p>R. <hi>How long, O Lord, Holy and True, doſt thou not judge and avenge the Sufferings of thy poor Creatures, upon thoſe Spiritual Wickedneſſes, thine and our Enemies, who vex us with their Wiles?</hi>
+            </p>
+            <p>O Lord, raiſe and reſtore thy <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Church</hi> to its primitive Purity, Holineſs, Zeal, and Fruitfulneſs in Good Works; and let the light of thy Countenance ſo ſhine upon it, that from thence it may be reflected into
+<pb n="8" facs="tcp:37728:6"/>the Eyes and Hearts of all thoſe who ſit in Darkneſs, that ſo they may be brought out of their Darkneſs into Thy Light, unto Thee the God of Light and Life.</p>
+            <p>And we humbly beſeech Thee, moſt Gracious and Merciful Father, to look down and behold in much Mercy and Pity the deplorable State and Condition of this Church and Nation, [<hi>who have hitherto withſtood all the gracious Methods of thy Holy and manifeſt Provi<g ref="char:EOLhyphen"/>dence, for our Correction and Reformation, without any Works meet for Repentance, or any due ſence of thy Hand and Gracious Deſigns therein, or of the Day of our Viſita<g ref="char:EOLhyphen"/>tions; but ſay,</hi> We are Rich, and increaſed with Goods, and have need of nothing; <hi>and know not that we are wretched and miſerable, and poor, (in true Treaſure) and blind, and naked, overſpread with Phariſaiſm, Formality, and Carnal Security, and tainted with the leaven, not only of the Phariſees, but even of the Sadduces; and in the very State of thy ancient People the Jews, in the Day of their Viſitation: ſo that we have great Reaſon to fear that we have filled up our Meaſure, and that the Day of our Calamity, and of thy juſt Vengeance is near approaching. But thou art God, and not Man; thou knoweſt our Frame, and that we are but Duſt; a God ready to pardon, Gracious and Merciful, ſlow to anger, and of great Kindneſs: yet can we not expect to be wholly unpuniſhed: but we beſeech Thee, correct us in meaſure; with Judgment, not in thine Anger, leaſt thou bring us to nothing: And remember, O Lord, that our Sins are in Truth our greateſt Miſery; and how much we ſuffer therein through the ſecret Energy of our inviſible Enemies: Pour out therefore thy Fury upon them; for they have devoured and conſumed us: but help us O God of our Salvation, for the Glory of thy Name,</hi>] and deliver us, and purge away our Sins for thy Name's Sake. Send forth a powerful Spirit of Reformation
+<pb n="9" facs="tcp:37728:6"/>amongſt us; and ſtir up the Hearts and Spirits of thy faithful Servants to be induſtrious for the Promotion thereof, ſtrengthen them thereunto, and bleſs them therein.</p>
+            <p>And we humbly beſeech thee, O Lord, [<hi>who knoweſt how to deliver the Godly out of Temptations, and to reſerve the <g ref="char:V">Ʋ</g>nrighteous unto the Day of Judgment to be puniſhed; if thou after all art provoked to bring a Flood of Calamities and Deſtruction upon the World of the <g ref="char:V">Ʋ</g>ngodly, and to leave the</hi> Outward Worſhippers and Formal Chriſtians <hi>to be tordden down by the Gentiles, that thou wilt remem<g ref="char:EOLhyphen"/>ber all the</hi> True Worſhippers within the Temple, and be<g ref="char:EOLhyphen"/>fore the Altar, <hi>who indeed worſhip Thee in Spirit and in Truth, whoſe Souls are made thy Temples, who honour and adore Thee in the moſt inward Thoughts of their Hearts, and ſacrifice their Luſts, and vile Affections, and their own Wills to Thee, whoſe Faith and Devotion is certainly known unto Thee; that thou wilt hide them in the hollow of thy Hand, and under the Shadow of thy Wings; and preſerve them, as a Seed, to partake of that Glory, which ſhall im<g ref="char:EOLhyphen"/>mediately follow, and come upon the Church, as ſoon as the Storm ſhall be over: and</hi>] that thou wilt be graciouſly pleaſed effectually to make every one of us, and of <hi>this Society,</hi> to be, and continue, of that bleſſed Company, <hi>[who worſhip Thee in Spirit, and in Truth,]</hi> and confirm it, and increaſe it daily, both in Grace and Number, to the Honour and Praiſe of thy Great Name, through Jeſus Chriſt our Bleſſed Lord and Saviour.</p>
+            <p>And we humbly beſeech Thee, that thou wilt remem<g ref="char:EOLhyphen"/>ber, and be gracious to, <hi>thoſe of us, who are now abſent,</hi> by reaſon of any Infirmity, Sickneſs, or other juſt Impe<g ref="char:EOLhyphen"/>diment, and ſupply their involuntary corporal Abſence from us, by the Preſence of thy Spirit with them, and
+<pb n="10" facs="tcp:37728:7"/>make them Partakers with us of the Spiritual Benefits of this Holy Ordinance.</p>
+            <p>And we humbly beſeech Thee for <hi>our Relations</hi> in Blood and Affinity; that thou wilt be pleaſed to work and perfect that Holy Work of Regeneration in them, that we may be all bejoyned and united in that more excellent Relation, in Spirit, and ſo become indeed thy Children, and Brethren and Siſters one to another. Give us all Grace to be vigilant and reſolute againſt the Tem<g ref="char:EOLhyphen"/>ptations and Counſels of Fleſh and Blood, and to be fruit<g ref="char:EOLhyphen"/>ful our ſelves, and mutually aſſiſtant one to another in the Production of the Fruits of the Spirit; and to un<g ref="char:EOLhyphen"/>derſtand, obſerve, and follow the Conduct thereof ſaith<g ref="char:EOLhyphen"/>fully and fully.</p>
+            <p>We beſeech Thee alſo for all <hi>our Friends and Bene<g ref="char:EOLhyphen"/>factors, [and all thoſe who have ſent hither their Obla<g ref="char:EOLhyphen"/>tions to Thee]</hi> that thou wilt reward all their Kindneſs to us, or any of us, into their own Boſoms: and as thou makeſt them Inſtruments of thy Providence, for our Re<g ref="char:EOLhyphen"/>lief, Benefit, or Comfort; ſo make us Inſtruments of thy Grace and Bleſſing unto them.</p>
+            <p>And we beſeech Thee, O Lord, to remember all thoſe, <hi>who have deſired to be remembred in our Prayers, or for whom our Prayers have been deſired, or who do remember us in theirs.</hi> Thou knoweſt all the Circumſtances of their ſeveral Caſes better than either we or they them<g ref="char:EOLhyphen"/>ſelves: We beſeech thee be Propitious and favourable to them all, and diſpoſe of all, (both them and their Concerns,) as may be moſt for the Honour and Glory of thy Name, the Promotion of thy Service, and the Weal and Comfort of every one of them.</p>
+            <pb n="11" facs="tcp:37728:7"/>
+            <p>Theſe things, O moſt Gracious and Bountiful Lord, and what ever elſe in thy Infinite Wiſdom thou ſeeſt any way requiſite or neceſſary for us, or for any whom we have or ought to have prayed for, we humbly beg and Implore through this Holy Propitiation now com<g ref="char:EOLhyphen"/>memorated before thee, in the Name, and for the Sake and Merits of thy dearly Beloved Son, our Bleſſed Lord and Saviour <hi>Christ Jeſus,</hi> who hath commanded and en<g ref="char:EOLhyphen"/>couraged us, when we pray, to ſay unto Thee,</p>
+            <p>
+               <hi>Our Father, who art in Heaven,</hi> &amp;c.</p>
+            <p>We do not preſume to come to this thy Table, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>After the Communion.</hi>
+            </p>
+            <p>Almighty and Everlaſting God, <hi>&amp;c.</hi>
+            </p>
+            <p>Glory be to God on high, <hi>&amp;c.</hi>
+            </p>
+            <p>May, God ariſe, and his Enemies be ſcattered, and all that hate him fly before him: As Smoak is diſſipated in the Air, may they vaniſh; and as Wax is diſſolved at the Fire, may the Wicked Periſh at the Preſence of God: But may the Righteous always be Glad, rejoice in God, yea exceedingly rejoyce.</p>
+            <p>Glory be to the Father, <hi>&amp;c.</hi>
+            </p>
+            <p>* <hi>To God who did,</hi> &amp;c.</p>
+            <p>Accept us graciouſly, O Lord, in theſe our Suppli<g ref="char:EOLhyphen"/>cations, Prayers, and Thankſgivings, and diſpoſe, <hi>&amp;c.</hi>
+            </p>
+            <p>O Almighty Lord, and everlaſting God, <hi>&amp;c.</hi>
+            </p>
+            <p>Lord of all Power and Might, <hi>&amp;c. Collect for the</hi> 7th. <hi>after Trinity.</hi>
+            </p>
+            <p>Almighty God, who haſt Promiſed to hear, <hi>&amp;c.</hi> In<g ref="char:EOLhyphen"/>cline thy <hi>Favour, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>The Peace of God,</hi> &amp;c.</p>
+         </div>
+         <div n="1" type="hymn">
+            <pb n="12" facs="tcp:37728:8"/>
+            <head>HYMN I.</head>
+            <lg>
+               <l>RISE, O my Soul, with thy <hi>Deſires</hi> to Heaven,</l>
+               <l>And with Divineſt Contemplation uſe</l>
+               <l>Thy Time, where Time's Eternity is given,</l>
+               <l>And let vain <hi>Thoughts,</hi> no more thy Thoughts abuſe,</l>
+               <l>But down in ſilent Darkneſs let them lie:</l>
+               <l>So live thy better, let thy worſe Thoughts Die.</l>
+            </lg>
+            <lg>
+               <l>And thou, my Soul, inſpir'd with Holy Flame,</l>
+               <l>View, and Review with moſt regardful Eye</l>
+               <l>That Holy <hi>Croſs,</hi> whence thy Salvation came,</l>
+               <l>On which thy Saviour and thy Sin did Die:</l>
+               <l>For in that Sacred Object is much Pleaſure;</l>
+               <l>And in that Saviour is my Joy, my Treaſure.</l>
+            </lg>
+            <lg>
+               <l>To Thee, O <hi>JESU,</hi> I direct mine Eyes,</l>
+               <l>To Thee my Hands, to thee my Humble Knees,</l>
+               <l>To Thee my Heart ſhall offer Sacrifice,</l>
+               <l>To Thee my Thoughts, who my Thoughts only ſees;</l>
+               <l>To Thee my Life, my Self, and all I give,</l>
+               <l>To Thee I die, to Thee alone I live.</l>
+            </lg>
+            <lg>
+               <l>O Holy, Holy, Holy, Lord most High,</l>
+               <l>Coequal, Coeternal <hi>DEITY,</hi>
+               </l>
+               <l>Who mad'ſt us, did'ſt redeem, and doſt Inſpire</l>
+               <l>Our Souls faln Heat with new Caeleſtial Fire;</l>
+               <l>We Bleſs thee now, and ſhall eternally,</l>
+               <l>O Holy, Holy, Holy, Lord most High.</l>
+            </lg>
+         </div>
+         <div n="2" type="hymn">
+            <pb n="13" facs="tcp:37728:8"/>
+            <head>HYMN. II.</head>
+            <lg>
+               <l>
+                  <hi>O</hi> Taſt, O taſt, O taſt and ſee,</l>
+               <l>How good, how ſweet, thy Lords to thee.</l>
+               <l>Bleſſed, O Bleſſed is the Man,</l>
+               <l>That firmly holds his Truſt in Him:</l>
+               <l>O Fear the Lord all ye his Saints,</l>
+               <l>For they who Fear him nothing want:</l>
+               <l>The Lyons lack, and Hunger bear,</l>
+               <l>But nought want they who do Him Fear:</l>
+               <l>The Lyons lack, and pine for Food;</l>
+               <l>But who fear Him can want no Good.</l>
+            </lg>
+         </div>
+         <div n="3" type="hymn">
+            <head>HYMN III.</head>
+            <lg>
+               <l>TO <hi>God,</hi> who did create the World's great Frame;</l>
+               <l>To <hi>God,</hi> by whom loſt Man's Redemption came;</l>
+               <l>To <hi>God,</hi> who Graces ſends, <hi>God</hi> the <hi>Holy-Ghoſt;</hi>
+               </l>
+               <l>We now give Praiſe with all the Heavenly-Host.</l>
+            </lg>
+            <lg>
+               <l>Thy early Praiſes i'th' Beginning were,</l>
+               <l>When all the Morning Stars made up the Quire;</l>
+               <l>Thee, all thy Works, Angels and Men adore,</l>
+               <l>As we do now, and ſhall do evermore.</l>
+            </lg>
+            <lg>
+               <l>All Glory to the Majeſty on high,</l>
+               <l>The ever Bleſſed Bleſſing <hi>Trinity.</hi>
+               </l>
+               <l>As in th' Beginning was, is now, ſhall be,</l>
+               <l>When Time ſhall paſs into Eternity.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
